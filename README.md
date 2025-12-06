@@ -69,6 +69,6 @@ BibTeX:
   title        = {GTS Geometry Generator (AutoLISP Script)},
   year         = {2025},
   note         = {Available at GitHub},
-  howpublished = {\url{[https://github.com/<your-username>/<your-repo>](https://github.com/EduardoOCarvalho/generateGTS.git)}}
+  howpublished = {\url{https://github.com/EduardoOCarvalho/generateGTS.git}}
 }
 
