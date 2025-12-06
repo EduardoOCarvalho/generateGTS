@@ -62,4 +62,4 @@ Recommended Citation:
 
 Eduardo de Oliveira Carvalho
 GTS Geometry Generator (AutoLISP Script), 2025.
-Available at: https://github.com/EduardoOCarvalho/generateGTS
+Available at: [https://github.com/EduardoOCarvalho/generateGTS](https://github.com/EduardoOCarvalho/generateGTS.git)
