@@ -62,3 +62,13 @@ Recommended Citation:
 
 Carvalho, E. O. (2025), "GTS Geometry Generator (AutoLISP Script)"
 Available at: [https://github.com/EduardoOCarvalho/generateGTS](https://github.com/EduardoOCarvalho/generateGTS.git)
+
+BibTeX:
+@misc{carvalho_gts_generator_2025,
+  author       = {Eduardo de Oliveira Carvalho},
+  title        = {GTS Geometry Generator (AutoLISP Script)},
+  year         = {2025},
+  note         = {Available at GitHub},
+  howpublished = {\url{[https://github.com/<your-username>/<your-repo>](https://github.com/EduardoOCarvalho/generateGTS.git)}}
+}
+
