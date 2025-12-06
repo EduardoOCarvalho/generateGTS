@@ -60,6 +60,5 @@ Citations help support open-source scientific tools and encourage continued deve
 
 Recommended Citation:
 
-Eduardo de Oliveira Carvalho
-GTS Geometry Generator (AutoLISP Script), 2025.
+Carvalho, E. O. (2025), "GTS Geometry Generator (AutoLISP Script)"
 Available at: [https://github.com/EduardoOCarvalho/generateGTS](https://github.com/EduardoOCarvalho/generateGTS.git)
