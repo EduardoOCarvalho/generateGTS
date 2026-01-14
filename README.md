@@ -69,6 +69,6 @@ BibTeX:
   title        = {GTS Geometry Generator (AutoLISP Script)},
   year         = {2025},
   note         = {Available at GitHub},
-  url = {https://github.com/EduardoOCarvalho/generateGTS.git}
+  url = { https://github.com/EduardoOCarvalho/generateGTS.git }
 }
 
